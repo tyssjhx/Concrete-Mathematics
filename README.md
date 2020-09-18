@@ -1,1 +1,1 @@
-# Notes-of-Concrete-Mathematics
+# Concrete-Mathematics
